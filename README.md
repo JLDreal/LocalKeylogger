@@ -1,1 +1,3 @@
 # LocalKeylogger
+
+Educational purpose only
